@@ -47,7 +47,7 @@ Projet conçu en équipe avec : Adam Abdallah
 
 - Le style visuel (et pourquoi il convient à votre jeu) : Pixel art
 - La palette de couleurs : #000000, #ffffff, #E1A12A
-- Trois images de référence : <img alt:"voleur" src:"https://tse1.mm.bing.net/th/id/OIP.J6xS4vHLfFkXSOdiozFE0wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"> , [image 2](lien), [image 3](lien)
+- Trois images de référence : <img src:"https://tse1.mm.bing.net/th/id/OIP.J6xS4vHLfFkXSOdiozFE0wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"> , [image 2](lien), [image 3](lien)
 - L'ambiance sonore : ...
 - Les objets jouables : ...
 - Croquis de l'interface :
