@@ -47,7 +47,7 @@ Projet conçu en équipe avec : Adam Abdallah
 
 - Le style visuel (et pourquoi il convient à votre jeu) : Pixel art
 - La palette de couleurs : #000000, #ffffff, #E1A12A
-- Trois images de référence : <img alt="voleur" src="https://static.vecteezy.com/system/resources/previews/011/185/353/non_2x/pixel-art-style-old-videogames-style-retro-style-18-bit-robber-surrender-vector.jpg" />, [image 2](lien), [image 3](lien)
+- Trois images de référence : <img width:"400" height:"400" alt="voleur" src="https://static.vecteezy.com/system/resources/previews/011/185/353/non_2x/pixel-art-style-old-videogames-style-retro-style-18-bit-robber-surrender-vector.jpg" />, [image 2](lien), [image 3](lien)
 - L'ambiance sonore : ...
 - Les objets jouables : ...
 - Croquis de l'interface :
